@@ -27,7 +27,6 @@ This repository contains the frontend codebase for a comprehensive Library Manag
 ## Project Structure
 
 ```
-├── .vscode/               # VS Code configuration
 ├── css/                   # Stylesheet files
 │   ├── add.css            # Styles for book addition page
 │   ├── borrowedBooks.css  # Styles for borrowed books interface

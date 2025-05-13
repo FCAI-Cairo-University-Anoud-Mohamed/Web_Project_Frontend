@@ -1,5 +1,5 @@
-# WebProject
-# Library Management System - Frontend
+# Web_Project- Frontend
+# Library Management System 
 
 ## Overview
 This repository contains the frontend codebase for a comprehensive Library Management System, designed to streamline operations for both library administrators and users. The web application provides intuitive interfaces for book management, user account handling, borrowing processes, and more.
